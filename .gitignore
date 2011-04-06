@@ -1,0 +1,9 @@
+ibid.db
+ibid.ini
+logwatch.txt
+twistd.pid
+logging.ini
+.history
+logs
+*.pyc
+
